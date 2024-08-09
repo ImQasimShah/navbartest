@@ -1,0 +1,35 @@
+.dflex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.qasim{
+    margin-left: 100px;
+}
+
+.margintext{
+    border: 1px solid red;
+    margin-left: 100px;
+}
+
+
+.paddingconcepts{
+    border: 1px solid red;
+    padding-left: 100px;
+}
+
+.rapt
+{
+    border: 1px solid crimson;
+    margin-left: 500px;
+    margin-top: 20px;
+
+}
+.decor
+{
+    border:2px solid blue;
+    padding-left: 500px;
+    padding-top: 50px;
+
+
+}
